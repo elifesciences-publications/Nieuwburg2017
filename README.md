@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Nieuwburg et al., "Localised dynactin protects growing microtubules to deliver oskar mRNA to the posterior cortex of the Drosophila oocyte". eLife, 2017. http://dx.doi.org/10.7554/eLife.27237
+
 # Nieuwburg2017
 
 The script "oocyteAnalyser.m" takes the output of the plusTipTracker package and gives the angles of each comet with respect to a drawn oocyte axis from anterior to posterior.
